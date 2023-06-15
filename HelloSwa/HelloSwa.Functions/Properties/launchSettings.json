@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "HelloSwa.Functions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7039",
+      "launchBrowser": false
+    }
+  }
+}

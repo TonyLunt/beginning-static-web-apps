@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloSwa.Blazor", "HelloSwa.Blazor\HelloSwa.Blazor.csproj", "{5391E5E4-DCA4-4C8D-AEB0-B6F1E5B7D987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloSwa.Functions", "HelloSwa.Functions\HelloSwa.Functions.csproj", "{85283EA2-F1C1-4399-83A0-693990DEDF78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5391E5E4-DCA4-4C8D-AEB0-B6F1E5B7D987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5391E5E4-DCA4-4C8D-AEB0-B6F1E5B7D987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5391E5E4-DCA4-4C8D-AEB0-B6F1E5B7D987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5391E5E4-DCA4-4C8D-AEB0-B6F1E5B7D987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85283EA2-F1C1-4399-83A0-693990DEDF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85283EA2-F1C1-4399-83A0-693990DEDF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85283EA2-F1C1-4399-83A0-693990DEDF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85283EA2-F1C1-4399-83A0-693990DEDF78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF764E3D-601D-4126-8D52-99B332B44F9D}
+	EndGlobalSection
+EndGlobal
