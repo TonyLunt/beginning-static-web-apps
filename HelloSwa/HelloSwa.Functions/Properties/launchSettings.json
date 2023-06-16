@@ -2,8 +2,8 @@
   "profiles": {
     "HelloSwa.Functions": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7039",
-      "launchBrowser": false
+      "commandLineArgs": "--port 7197",
+      "nativeDebugging": true
     }
   }
 }
